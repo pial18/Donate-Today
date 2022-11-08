@@ -1,0 +1,193 @@
+.banner{
+    position: relative;
+
+}
+.banner-card{
+    position: absolute;
+   color:whitesmoke;
+   font-size: 15px;
+   font-family: Arial, Helvetica, sans-serif;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  
+  
+
+
+}
+.button{
+    border-radius: 25px;
+    background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+position:absolute; 
+
+ 
+    }
+    .link-button{
+        border-radius: 25px;
+        background-color: #f44336;
+      color: white;
+      padding: 14px 25px;
+     
+      
+     
+   
+
+    }
+    
+    
+    .donate{
+        justify-content: center;
+        justify-items: center;
+        text-align: center;
+        font-size: 20px;
+}
+
+
+
+.position{display: flex;
+  justify-content: center;    
+align-items: center;
+}
+.amount{
+  margin: 20px;
+  border-radius: 25px;
+  background-color: #f44336;
+color: white;
+padding: 14px 25px;
+  
+  
+}
+.item{
+  justify-content: center;    
+  align-items: center;
+  display: flex;
+
+}
+.red{
+  border-radius: 25px;
+  background-color: green;
+color: white;
+padding: 14px 25px;
+}
+.yellow{
+  justify-content: center;    
+  align-items: center;
+  display: flex;
+font-size: 30px;
+text-decoration: none;
+
+
+}
+.new-button{
+  border-radius: 25px;
+  background-color: #f44336;
+color:sandybrown;
+padding: 20px 20px;
+margin-top: 20px;
+
+
+
+}
+.plan{
+  justify-content: center;    
+  align-items: center;
+  display: flex;
+  margin: 40px;
+  font-size: 25px;
+  
+  }
+  .idea{
+    justify-content: center;    
+  align-items: center;
+  display: flex;
+  margin-left: 20px;
+  
+
+  }
+  .ideas{
+    padding: 10px 10px 10px 10px;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  
+  
+
+  }
+  .lives{
+    display: flex;
+    font-size: 20px;
+    text-align: start;
+    margin-top: 50px;
+   
+    
+
+  }
+  .live{
+    border-bottom: 30px;
+    border-top: 30px;
+    border-left: 30px;
+    border-right: 30px;
+    background-color:skyblue;
+  color:darkorange;
+  padding: 14px 25px;
+  text-decoration: none;
+  margin-top: 20px;
+
+
+   
+  }
+  .save{
+    display: flex;
+    font-size: 25px;
+    text-align: start;
+    justify-content: center;    
+    align-items: center;
+    
+    
+
+  }
+  .survive{
+    border-radius: 10px;
+    background-color:green;
+  color:red;
+  padding: 15px 15px;
+  text-decoration: double;
+
+  }
+  .contribute{
+    font-size: 40px;
+    text-align: center;
+    justify-content: center;    
+    align-items: center;
+
+  }
+  .web{
+    text-align: center;
+    justify-content: center;    
+    align-items: center;
+  }
+
+
+  
+
+
+
+ 
+
+
+
+  
+  
+
+
+
+
+
+
+  
+  
+   
+   
+
